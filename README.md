@@ -37,7 +37,7 @@ The Restrict Payment Based on Shipping extension enhances your store's payment p
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/_/1.configuration_9.webp)
 
-**2. Restrict Payment Method With Flat Rate Shipping 2 
+**2. Restrict Payment Method With Flat Rate Shipping**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/2/_/2.restrict_payment_method_with_flat_rate_shipping_2_.webp)
 
@@ -49,3 +49,28 @@ The Restrict Payment Based on Shipping extension enhances your store's payment p
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/4/_/4.non_restricted_payment_method_frontend_2.webp)
 
+## Change Log
+
+**Version 1.0.1**
+
+Added REST API and GraphQL API
+
+## Support
+
+In case of any queries about our extensions or services, feel free to write to us at our [Support Portal](https://magecomp.com/support/).
+
+## Contact us
+
+In case you would want to contact us, reach out to us at:
+
+Phone: +917990250277
+
+Email: [support@magecomp.com](mailto:support@magecomp.com)
+
+## Other Magento 2 Extensions by MageComp
+
+[Magento 2 Store Locator Extension](https://magecomp.com/magento-2-store-locator.html)
+
+[]
+
+## Magento Marketplace Extensions By MageComp
