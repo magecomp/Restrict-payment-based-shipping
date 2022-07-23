@@ -45,7 +45,7 @@ The Restrict Payment Based on Shipping extension enhances your store's payment p
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/3/_/3.bank_transfer_payment_option_frontend.webp)
 
-**4.Non Restricted Payment Method Frontend**
+**4. Non Restricted Payment Method Frontend**
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/4/_/4.non_restricted_payment_method_frontend_2.webp)
 
